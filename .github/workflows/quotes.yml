@@ -1,0 +1,26 @@
+name: Update Kim Possible Quote
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # runs every day at 04:00 UTC
+  workflow_dispatch:      # lets you run it manually
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Pick a random quote
+        id: pick
+        run: |
+          quote=$(shuf -n 1 quotes.txt)
+          echo "quote=$quote" >> $GITHUB_OUTPUT
+      - name: Replace quote in README
+        run: |
+          sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\  > *\"${{ steps.pick.outputs.quote }}\"* – Agent J.B.\n  <!-- QUOTE_END -->" README.md
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎤 Mission quote updated" && git push)
