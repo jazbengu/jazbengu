@@ -2,7 +2,7 @@
   
   <img src="https://media.giphy.com/media/3o7TKsQ8X3JbFmT8fK/giphy.gif" width="150" />
 
-  # 🕵️‍♂️ Agent Jaz Bengu
+  # 🕵️‍♂️ Joy Bengu
   ### Full‑Stack Developer · Part‑Time Hero
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=86C232&center=true&vCenter=true&width=500&lines=What's+the+sitch%3F;Call+me,+beep+me+if+you+wanna+reach+me;So+not+the+drama;Building+with+code,+saving+the+world)](https://git.io/typing-svg)
