@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/3o7TKsQ8X3JbFmT8fK/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/xT9DPldJHzZKtORo5i/giphy.gif" width="250" />
 
   # 🕵️‍♂️ Joy Bengu
   ### Full‑Stack Developer · Part‑Time Hero
