@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Joy%20Bengu&fontSize=60&fontColor=86C232&fontAlignY=38&desc=Full-Time%20Aspiring%20Researcher%20%C2%B7%20Part-Time%20Hero&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3d0a,100:86C232&height=200&section=header&text=Joy%20Bengu&fontSize=60&fontColor=86C232&fontAlignY=38&desc=Full-Time%20Aspiring%20Researcher%20%C2%B7%20Part-Time%20Hero&descSize=18&descAlignY=58&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=86C232&center=true&vCenter=true&width=600&lines=What's+the+sitch%3F+%F0%9F%93%9E;Call+me%2C+beep+me+if+you+wanna+reach+me;Building+with+code%2C+saving+the+world+%F0%9F%8C%8D;So+not+the+drama...+%F0%9F%92%85;Anything's+possible+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
@@ -137,6 +137,6 @@
 
 **Let's save the world... one commit at a time.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=So%20not%20the%20drama...&fontSize=22&fontColor=86C232&fontAlignY=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:86C232,50:1a3d0a,100:0D1117&height=120&section=footer&text=So%20not%20the%20drama...&fontSize=22&fontColor=86C232&fontAlignY=70&animation=fadeIn" />
 
 </div>
