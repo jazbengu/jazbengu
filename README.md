@@ -66,9 +66,9 @@
 
 ```
 🌐 Active Operations:
-├── 🔍 Researching next-gen solutions in [Your Research Area]
+├── 🔍 Researching next-gen solutions in Natrural Language Processing, Artifical Intellegence and Computer Science Education
 ├── 🛠️  Building full-stack applications that make a difference
-├── 📚 Learning [Current Tech Stack] to stay ahead of the curve
+├── 📚 Learning Native React & Ruby to stay ahead of the curve
 └── 🤝 Open to collaborations on meaningful projects
 ```
 
@@ -136,7 +136,4 @@
 ![Status](https://img.shields.io/badge/Status-Ready%20For%20Action%20🚀-86C232?style=for-the-badge)
 
 **Let's save the world... one commit at a time.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:86C232,50:1a3d0a,100:0D1117&height=120&section=footer&text=So%20not%20the%20drama...&fontSize=22&fontColor=86C232&fontAlignY=70&animation=fadeIn" />
-
 </div>
