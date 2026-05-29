@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- HEADER: Radio wave GIF -->
-  <img src="https://media.giphy.com/media/xT9DPldJHzZKtORo5i/giphy.gif" width="250" alt="Radio waves" />
+  <!-- HEADER: Radio wave GIF --><img src="https://media.giphy.com/media/xT9DPldJHzZKtORo5i/giphy.gif" width="250" alt="Radio waves" />
 
   # 🕵️‍♂️ Joy Bengu
   ### Full‐Time Aspiring Researcher · Part‐Time Hero
