@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- HEADER: Radio wave GIF -->
-  <img src="https://media.giphy.com/media/xT9DPldJHzZKtORo5i/giphy.gif" width="250" alt="Radio waves" />
+  <img src="[https://media.giphy.com/media/xT9DPldJHzZKtORo5i/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFxYXZxaHc3d2ZxbTliZTdiMmZzNGxjd2VuMmdjZHIzZmh2dWV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LQv4IGmdZAF7TmMJEa/giphy.gif)" width="250" alt="Radio waves" />
 
   # 🕵️‍♂️ Joy Bengu
   ### Full‐Time Aspiring Researcher · Part‐Time Hero
