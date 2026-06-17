@@ -182,8 +182,7 @@ Researching at the intersection of **Natural Language Processing**, **computer s
 ### 🎧 Soundtrack for Swinging Through Manhattan
 
 <!-- 🔧 Replace YOUR_SPOTIFY_UID with your Spotify username (found in Account > Profile URL) -->
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j8gmbmonn9n6mdj587a4b1xvg&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j8gmbmonn9n6mdj587a4b1xvg&cover_image=true&theme=spotify-embed&show_offline=false&background_color=aa4baa&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 <sub>🎵 Currently humming through headphones, mid-swing</sub>
 
