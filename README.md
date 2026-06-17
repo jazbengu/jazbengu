@@ -3,9 +3,7 @@
 <!-- ══════════════════════════════════════════════ -->
 <!--             HEADER WAVE                        -->
 <!-- ══════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,B19CD9,6EE7B7&height=200&section=header&text=Joy%20Bengu&fontSize=58&fontColor=B19CD9&animation=fadeIn&fontAlignY=42&desc=🕸️%20Your%20Friendly%20Neighborhood%20Developer&descAlignY=62&descSize=16&descColor=6EE7B7" width="100%" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,B19CD9,6EE7B7&height=220&section=header&text=Joy%20Bengu&fontSize=58&fontColor=B19CD9&animation=fadeIn&fontAlignY=38&desc=🕸️%20Your%20Friendly%20Neighborhood%20Developer&descAlignY=58&descSize=16&descColor=6EE7B7" width="100%" />
 
 <!-- ══════════════════════════════════════════════ -->
 <!--             TYPING ANIMATION                   -->
@@ -14,34 +12,92 @@
 
 <br>
 
----
+<img src="https://img.shields.io/badge/🕸️_PROFILE_LOADED-0D1117?style=for-the-badge&labelColor=B19CD9&color=0D1117" />
 
 </div>
+
+---
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
 ### 📰 Daily Bugle — Exclusive Report
 
 ```
-"Local researcher and developer spotted swinging between repositories
- at impossible speeds. Sources say the work is 'sticky' — in a good way.
- More on this 'menace'... or hero?"
-                                                    — J. Jonah Jameson, probably
+"Local researcher and developer spotted swinging between
+ repositories at impossible speeds. Sources say the work
+ is 'sticky' — in a good way. More on this 'menace'... 
+ or hero?"
+
+                              — J. Jonah Jameson, probably
 ```
 
-Currently pursuing research that matters, writing code that ships, and relying on my Spider-Sense to catch bugs before they catch me. When I'm not behind the keyboard, I'm probably still behind the keyboard.
+Currently pursuing research that matters, writing code that ships, and relying on my Spider-Sense to catch bugs before they catch me. When I'm not behind the keyboard, I'm probably still behind the keyboard — just with better lighting.
+
+</td>
+<td width="40%" valign="center" align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Spider%20Web.png" width="160" alt="spider web" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 ![Location](https://img.shields.io/badge/📍_South_Africa-0D1117?style=flat-square&logoColor=B19CD9)
 ![Role](https://img.shields.io/badge/🔬_Researcher-0D1117?style=flat-square&logoColor=6EE7B7)
 ![Status](https://img.shields.io/badge/🕸️_Status-Web_Slinging-B19CD9?style=flat-square&labelColor=0D1117)
+![Alignment](https://img.shields.io/badge/⚖️_Alignment-Neutral_Good-6EE7B7?style=flat-square&labelColor=0D1117)
+
+---
+
+### 🕷️ Origin Story
+
+</div>
+
+```
+  Once a curious mind with no direction...
+  bitten by a deadline at 3 AM...
+  granted the powers of:
+        → relentless debugging
+        → reading documentation nobody else reads
+        → shipping at the worst possible moment, on purpose
+  Now sworn to protect: clean commits, readable code,
+  and the occasional sanity of code reviewers everywhere.
+```
+
+<div align="center">
+
+---
+
+### 🕸️ Powers & Abilities
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<b>🧠 Spider-Sense</b><br/>
+<sub>Detects bugs before<br/>they detect you</sub>
+</td>
+<td align="center" width="33%">
+<b>🪢 Web Architecture</b><br/>
+<sub>Connects systems that<br/>shouldn't talk, somehow do</sub>
+</td>
+<td align="center" width="33%">
+<b>⚡ Rapid Swing</b><br/>
+<sub>Ships fast, reviews faster,<br/>sleeps rarely</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📞 Hit the Spider-Signal
 
 <!-- 🔧 Replace URLs with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B19CD9?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Email](https://img.shields.io/badge/Email-6EE7B7?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B19CD9?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/joy-bengu-/)
+[![Email](https://img.shields.io/badge/Email-6EE7B7?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:bengujoy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/jazbengu)
 
 ---
@@ -81,6 +137,14 @@ Currently pursuing research that matters, writing code that ships, and relying o
 
 ---
 
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=jazbengu&theme=dark_lilac&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+
+<sub>(if <code>dark_lilac</code> theme isn't supported, swap to <code>onedark</code> — still fits the palette)</sub>
+
+---
+
 ### 📊 Mission Stats — Tracked by Spider-Sense
 
 <p>
@@ -89,6 +153,17 @@ Currently pursuing research that matters, writing code that ships, and relying o
 </p>
 
 <img src="https://streak-stats.demolab.com/?user=jazbengu&theme=dark&background=0D1117&ring=B19CD9&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=C9D1D9&hide_border=true" />
+
+---
+
+### 🦹 Rogues Gallery — Villains Defeated
+
+| Villain | Threat | Status |
+|---|---|---|
+| 🟣 Null Pointer Goblin | Crashes apps at the worst time | ✅ Webbed up |
+| 🟢 Merge Conflict Vulture | Circles every Friday deploy | ✅ Webbed up |
+| 🟣 Infinite Loop Octopus | Eight arms, zero exit condition | ✅ Webbed up |
+| 🟢 Legacy Code Lizard | Lurks in undocumented sewers | 🟡 Still at large |
 
 ---
 
@@ -101,11 +176,18 @@ Currently pursuing research that matters, writing code that ships, and relying o
 ### 🎧 Soundtrack for Swinging Through Manhattan
 
 <!-- 🔧 Replace YOUR_SPOTIFY_UID with your Spotify username (found in Account > Profile URL) -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=B19CD9&bar_color_cover=true" width="450" />
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=zozojella&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=zozojella&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=B19CD9&bar_color_cover=true" width="450" />
 </a>
 
 <sub>🎵 Currently humming through headphones, mid-swing</sub>
+
+---
+
+### 🎲 Random Spider-Verse Wisdom
+
+<!-- 🔧 This pulls a random quote-style badge — purely decorative, refreshes each profile view -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
 ---
 
