@@ -25,20 +25,20 @@
 ### 📰 Daily Bugle — Exclusive Report
 
 ```
-"Local researcher and developer spotted swinging between
- repositories at impossible speeds. Sources say the work
- is 'sticky' — in a good way. More on this 'menace'... 
- or hero?"
+"Local researcher spotted teaching machines to read,
+ teaching humans to code, and somehow still finding time
+ to argue about fandom lore on the internet. Sources say
+ the work is 'sticky' — in a good way. Menace... or hero?"
 
                               — J. Jonah Jameson, probably
 ```
 
-Currently pursuing research that matters, writing code that ships, and relying on my Spider-Sense to catch bugs before they catch me. When I'm not behind the keyboard, I'm probably still behind the keyboard — just with better lighting.
+Researching at the intersection of **Natural Language Processing**, **computer science education**, and **AI built for good** — with a healthy side quest in **fandom culture** (because the internet's most passionate communities deserve good tech too). Currently teaching machines to understand language, teaching people to understand machines, and believing both can be done responsibly.
 
 </td>
 <td width="40%" valign="center" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Spider%20Web.png" width="160" alt="spider web" />
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f578.png" width="120" alt="spider web" />
 
 </td>
 </tr>
@@ -58,14 +58,16 @@ Currently pursuing research that matters, writing code that ships, and relying o
 </div>
 
 ```
-  Once a curious mind with no direction...
-  bitten by a deadline at 3 AM...
+  Once a student with too many questions and not
+  enough answers in the syllabus...
+  bitten by a research problem at 3 AM...
   granted the powers of:
-        → relentless debugging
-        → reading documentation nobody else reads
-        → shipping at the worst possible moment, on purpose
-  Now sworn to protect: clean commits, readable code,
-  and the occasional sanity of code reviewers everywhere.
+        → parsing language the way others parse code
+        → explaining computer science so it actually clicks
+        → building AI that helps instead of harms
+        → defending fandom theories with academic rigor
+  Now sworn to protect: accessible education, ethical AI,
+  and the right of every community to be taken seriously.
 ```
 
 <div align="center">
@@ -76,17 +78,21 @@ Currently pursuing research that matters, writing code that ships, and relying o
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
-<b>🧠 Spider-Sense</b><br/>
-<sub>Detects bugs before<br/>they detect you</sub>
+<td align="center" width="25%">
+<b>🗣️ NLP</b><br/>
+<sub>Teaching machines<br/>to understand us</sub>
 </td>
-<td align="center" width="33%">
-<b>🪢 Web Architecture</b><br/>
-<sub>Connects systems that<br/>shouldn't talk, somehow do</sub>
+<td align="center" width="25%">
+<b>🎓 CS Education</b><br/>
+<sub>Making complex ideas<br/>click for new minds</sub>
 </td>
-<td align="center" width="33%">
-<b>⚡ Rapid Swing</b><br/>
-<sub>Ships fast, reviews faster,<br/>sleeps rarely</sub>
+<td align="center" width="25%">
+<b>🤖 AI for Good</b><br/>
+<sub>Building tech that<br/>helps, not harms</sub>
+</td>
+<td align="center" width="25%">
+<b>🕸️ Fandom Culture</b><br/>
+<sub>Studying the internet's<br/>most devoted communities</sub>
 </td>
 </tr>
 </table>
@@ -96,7 +102,7 @@ Currently pursuing research that matters, writing code that ships, and relying o
 ### 📞 Hit the Spider-Signal
 
 <!-- 🔧 Replace URLs with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B19CD9?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/joy-bengu-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B19CD9?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/joy-bengu-/)
 [![Email](https://img.shields.io/badge/Email-6EE7B7?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:bengujoy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/jazbengu)
 
