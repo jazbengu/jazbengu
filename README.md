@@ -176,8 +176,8 @@ Currently pursuing research that matters, writing code that ships, and relying o
 ### 🎧 Soundtrack for Swinging Through Manhattan
 
 <!-- 🔧 Replace YOUR_SPOTIFY_UID with your Spotify username (found in Account > Profile URL) -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=zozojella&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=zozojella&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=B19CD9&bar_color_cover=true" width="450" />
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=j8gmbmonn9n6mdj587a4b1xvg&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=j8gmbmonn9n6mdj587a4b1xvg&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=B19CD9&bar_color_cover=true" width="450" />
 </a>
 
 <sub>🎵 Currently humming through headphones, mid-swing</sub>
