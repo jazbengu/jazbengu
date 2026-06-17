@@ -1,139 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3d0a,100:86C232&height=200&section=header&text=Joy%20Bengu&fontSize=60&fontColor=86C232&fontAlignY=38&desc=Full-Time%20Aspiring%20Researcher%20%C2%B7%20Part-Time%20Hero&descSize=18&descAlignY=58&animation=fadeIn" />
+<!-- ══════════════════════════════════════════════ -->
+<!--             HEADER WAVE                        -->
+<!-- ══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,B19CD9,6EE7B7&height=200&section=header&text=Joy%20Bengu&fontSize=58&fontColor=B19CD9&animation=fadeIn&fontAlignY=42&desc=🕸️%20Your%20Friendly%20Neighborhood%20Developer&descAlignY=62&descSize=16&descColor=6EE7B7" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=86C232&center=true&vCenter=true&width=600&lines=What's+the+sitch%3F+%F0%9F%93%9E;Call+me%2C+beep+me+if+you+wanna+reach+me;Building+with+code%2C+saving+the+world+%F0%9F%8C%8D;So+not+the+drama...+%F0%9F%92%85;Anything's+possible+%F0%9F%8E%AF)](https://git.io/typing-svg)
+<br>
 
-</div>
+<!-- ══════════════════════════════════════════════ -->
+<!--             TYPING ANIMATION                   -->
+<!-- ══════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=B19CD9&center=true&vCenter=true&width=640&lines=With+great+code+comes+great+responsibility+🕸️;Web-slinging+through+pull+requests...;My+Spider-Sense+is+tingling+🚨;Just+your+friendly+neighborhood+dev;Shipping+features%2C+swinging+between+branches;Stuck+to+the+keyboard+like+a+wall+🧱)](https://git.io/typing-svg)
 
----
-
-## 📊 Mission Briefing
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=jazbengu&show_icons=true&bg_color=0D1117&title_color=86C232&icon_color=86C232&text_color=C9D1D9&border_color=30363D&hide_border=true&count_private=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazbengu&layout=compact&bg_color=0D1117&title_color=86C232&text_color=C9D1D9&border_color=30363D&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jazbengu&theme=dark&background=0D1117&ring=86C232&fire=86C232&currStreakLabel=86C232&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jazbengu&bg_color=0D1117&color=86C232&line=86C232&point=FFFFFF&area=true&area_color=86C23233&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<br>
 
 ---
 
-## 🔧 Gadget Inventory
+</div>
+
+### 📰 Daily Bugle — Exclusive Report
+
+```
+"Local researcher and developer spotted swinging between repositories
+ at impossible speeds. Sources say the work is 'sticky' — in a good way.
+ More on this 'menace'... or hero?"
+                                                    — J. Jonah Jameson, probably
+```
+
+Currently pursuing research that matters, writing code that ships, and relying on my Spider-Sense to catch bugs before they catch me. When I'm not behind the keyboard, I'm probably still behind the keyboard.
 
 <div align="center">
 
-**Frontend Arsenal**
+![Location](https://img.shields.io/badge/📍_South_Africa-0D1117?style=flat-square&logoColor=B19CD9)
+![Role](https://img.shields.io/badge/🔬_Researcher-0D1117?style=flat-square&logoColor=6EE7B7)
+![Status](https://img.shields.io/badge/🕸️_Status-Web_Slinging-B19CD9?style=flat-square&labelColor=0D1117)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-**Backend Toolkit**
+### 📞 Hit the Spider-Signal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- 🔧 Replace URLs with your actual links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B19CD9?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![Email](https://img.shields.io/badge/Email-6EE7B7?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/jazbengu)
+
+---
+
+### 🧰 Web-Shooter Inventory
+
+</div>
+
+<details>
+<summary><b>🕸️ Open the utility belt — click to expand</b></summary>
+<br>
+
+<div align="center">
+
+**🖥️ Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23B19CD9)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%236EE7B7)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**⚙️ Frameworks & Runtime**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%23B19CD9)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=%236EE7B7)
 
-**DevOps & Infrastructure**
+**🛠️ Tools & Platforms**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
-## 🎯 Current Mission
-
-```
-🌐 Active Operations:
-├── 🔍 Researching next-gen solutions in Natrural Language Processing, Artifical Intellegence and Computer Science Education
-├── 🛠️  Building full-stack applications that make a difference
-├── 📚 Learning Native React & Ruby to stay ahead of the curve
-└── 🤝 Open to collaborations on meaningful projects
-```
-
----
-
-## 🏆 Recent Victories
+</details>
 
 <div align="center">
 
-| 🚀 Project | 📋 Description | ⚙️ Tech Stack | 🔗 Link |
-|:-----------|:---------------|:--------------|:--------|
-| **📋 Productivity Tracker** | Mission task management system | React, Node.js, MongoDB | [View →](https://github.com/jazbengu) |
-| **🌐 Portfolio Website** | Digital headquarters | Next.js, TailwindCSS | [View →](https://github.com/jazbengu) |
-| **🔐 Auth System** | Secure access protocols | Python, FastAPI, Docker | [View →](https://github.com/jazbengu) |
-| **📊 Dashboard App** | Real-time mission analytics | JavaScript, Express, PostgreSQL | [View →](https://github.com/jazbengu) |
+---
 
-</div>
+### 📊 Mission Stats — Tracked by Spider-Sense
+
+<p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jazbengu&show_icons=true&bg_color=0D1117&title_color=B19CD9&icon_color=6EE7B7&text_color=C9D1D9&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazbengu&layout=compact&bg_color=0D1117&title_color=B19CD9&text_color=C9D1D9&hide_border=true&langs_count=8" />
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=jazbengu&theme=dark&background=0D1117&ring=B19CD9&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=C9D1D9&hide_border=true" />
 
 ---
 
-## 🎓 Agent Credentials
+### 📡 Spider-Tracer Activity Log
 
-```
-┌─────────────────────────────────────────┐
-│          JUNIOR AGENT PROFILE           │
-│─────────────────────────────────────────│
-│  Specialisation: Full Stack Development  │
-│  Clearance:      Open Source Contrib.   │
-│  Focus Area:     Research & Innovation  │
-│  Hero Mentality: ██████████ ACTIVATED ✓ │
-└─────────────────────────────────────────┘
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jazbengu&bg_color=0D1117&color=B19CD9&line=6EE7B7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📡 Kimmunicator — Get in Touch
+### 🎧 Soundtrack for Swinging Through Manhattan
 
-> *"Call me, beep me if you wanna reach me"* 📞
+<!-- 🔧 Replace YOUR_SPOTIFY_UID with your Spotify username (found in Account > Profile URL) -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=B19CD9&bar_color_cover=true" width="450" />
+</a>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-86C232?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-86C232?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-86C232?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-86C232?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-86C232?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-</div>
+<sub>🎵 Currently humming through headphones, mid-swing</sub>
 
 ---
 
-## 🎬 Kim Possible Wisdom
+> *"With great code comes great responsibility."* — Uncle Ben, if he reviewed PRs 🕸️
 
-> *"Anything's possible when you work with the right team."* — K.P.
+<br>
 
-> *"No big. Just saving the world with code."* — J.B.
+![Agents Checked In](https://komarev.com/ghpvc/?username=jazbengu&color=B19CD9&style=flat-square&label=Web-Heads+Checked+In)
 
-> *"The world needs heroes. So not the drama, all the action."* — J.B.
+<br>
 
----
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6EE7B7,B19CD9,0D1117&height=120&section=footer&text=Your%20Friendly%20Neighborhood%20Outro&fontSize=16&fontColor=ffffff" width="100%" />
 
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=jazbengu&style=for-the-badge&color=86C232&label=AGENTS+BRIEFED)
-![Status](https://img.shields.io/badge/Status-Ready%20For%20Action%20🚀-86C232?style=for-the-badge)
-
-**Let's save the world... one commit at a time.**
 </div>
