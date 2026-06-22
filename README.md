@@ -1,273 +1,194 @@
-<!-- ═══════════════════ HEADER ═══════════════════ -->
-<div align="center">
-
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:A50021,100:C5A028&height=220&section=header&text=✦%20R%20U%20N%20W%20A%20Y%20✦&fontSize=58&fontColor=F5F0E8&fontAlignY=40&desc=The%20world%27s%20most%20influential%20codebase.&descAlignY=60&descColor=E8D5A3&descSize=17&animation=fadeIn)](https://github.com/jazbengu)
-
-# Joy Azile Zoe Bengu
-
-*"A million girls would kill for this GitHub."*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=3000&pause=900&color=CC0000&center=true&vCenter=true&width=660&lines=NLP+Researcher.+AI+Architect.+CS+Educator.;That%27s+all.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A50021?style=for-the-badge&logo=linkedin&logoColor=F5F0E8)](https://linkedin.com/in/joy-bengu-)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C5A028?style=for-the-badge&logo=firefox&logoColor=0D0D0D)](https://jazbengu.github.io/)
-[![Email](https://img.shields.io/badge/Email-A50021?style=for-the-badge&logo=gmail&logoColor=F5F0E8)](mailto:bengujoy@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-C5A028?style=for-the-badge&logo=instagram&logoColor=0D0D0D)](https://www.instagram.com/dayofzo.pdf/)
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=A50021&height=3)
-
-<!-- ═══════════════════ MIRANDA'S DESK ═══════════════════ -->
-
-<br/>
+<!-- ═══════════════════ RUNWAY HEADER ═══════════════════ -->
 
 <div align="center">
 
-![section](https://img.shields.io/badge/✦%20%20FROM%20MIRANDA'S%20DESK%20%20✦-A50021?style=for-the-badge&labelColor=0D0D0D&color=A50021)
+# ✦ RUNWAY — MAY EDITION ✦  
+## THE DEVELOPER WEARS PRADA
+
+*"A curated archive of intelligence, language, and systems thinking."*
+
+AI • NLP • CS Education • AI for Good • Fandom Systems
+
+<br/>
+
+<span style="color:#B9A3FF">━━━━━━━━━━━━━━━━━━━━</span>
 
 </div>
 
-<br/>
+---
 
-> *"Please bore someone else with your questions."*
-> — Miranda Priestly, on undocumented APIs
-
-Joy is not your average developer. She is a **researcher**, a **builder**, and frankly, the only person in the room who understands why **language models and language learning belong together**. She works at the intersection of **Natural Language Processing**, **Computer Science Education**, and **AI built for good** — with a sharp eye for pop culture, because the internet's most passionate communities deserve serious technology.
-
-She doesn't explain herself twice.
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=C5A028&height=2)
-
-<!-- ═══════════════════ CERULEAN ═══════════════════ -->
-
-<br/>
+<!-- ═══════════════════ CONTACT STRIP ═══════════════════ -->
 
 <div align="center">
 
-![section](https://img.shields.io/badge/✦%20%20THE%20CERULEAN%20MOMENT%20%20✦-5B92C3?style=for-the-badge&labelColor=0D0D0D&color=5B92C3)
-
-*(Origin Story)*
-
-</div>
-
-<br/>
-
-> *"You think this has nothing to do with you. You go to your closet and you select... that lumpy blue sweater. But what you don't know is that sweater is not just blue — it's cerulean."*
-
-It started with **too many questions** and **not enough answers in the syllabus.**
-
-A student who couldn't stop asking *why* eventually became a researcher asking *how* — how do machines understand us? How do we teach the next generation to build them responsibly? How does fandom culture reveal something true and important about human language?
-
-The answer, it turns out, **is always in the data.**
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=A50021&height=3)
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-
-<br/>
-
-<div align="center">
-
-![section](https://img.shields.io/badge/✦%20%20THE%20RUNWAY%20COLLECTION%20%20✦-A50021?style=for-the-badge&labelColor=0D0D0D)
-
-*(Tech Stack)*
-
-> *"Details of your incompetence do not interest me."*
-> — Which is why the stack is impeccable.
-
-<br/>
-
-**🩸 Couture Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=0D0D0D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**💛 Prêt-à-Porter Frameworks**
-
-![React](https://img.shields.io/badge/React-5B92C3?style=flat-square&logo=react&logoColor=0D0D0D)
-![Next.js](https://img.shields.io/badge/Next.js-F5F0E8?style=flat-square&logo=nextdotjs&logoColor=0D0D0D)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**🩷 Accessories & Atelier Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-C5A028?style=flat-square&logo=visualstudiocode&logoColor=0D0D0D)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B9A3FF?style=for-the-badge&logo=linkedin&logoColor=0D0D0D)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-BFE6D0?style=for-the-badge&logo=firefox&logoColor=0D0D0D)](https://your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-8F7CFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-B9A3FF?style=for-the-badge&logo=instagram&logoColor=0D0D0D)](https://instagram.com)
 
 </div>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=C5A028&height=2)
+<!-- ═══════════════════ EDITOR’S NOTE ═══════════════════ -->
 
-<!-- ═══════════════════ EDITORIAL SPREADS ═══════════════════ -->
+## EDITOR’S NOTE
 
-<br/>
+> *“You think this has nothing to do with you.”*
 
-<div align="center">
+This is not a portfolio.
 
-![section](https://img.shields.io/badge/✦%20%20THE%20EDITORIAL%20SPREADS%20%20✦-C5A028?style=for-the-badge&labelColor=0D0D0D)
+This is a **seasonal issue** — a curated runway of systems, experiments, and research artifacts at the intersection of language, intelligence, and design.
 
-*(Pinned Projects)*
+Every repository is treated as an **editorial piece**, not a deliverable.
 
-> *"Find me that piece. I don't care how you do it. That's all."*
+---
 
-</div>
+<!-- ═══════════════════ ORIGIN STORY ═══════════════════ -->
 
-<br/>
+## THE CERULEAN MOMENT (ORIGIN)
 
-| 💋 Project | Description | House |
-|:---:|---|:---:|
-| 👗 [**AniRecci**](https://github.com/jazbengu/AniRecci) | *This season's must-have:* an anime recommendation engine — because your next obsession deserves an algorithm. | `Jupyter Notebook` |
-| 🎙️ [**ClassifySpeech**](https://github.com/jazbengu/ClassifySpeech) | Teaching machines to *hear* — speech classification that could pass even Miranda's standards. | `Python` |
-| 🔍 [**ThreatDetect**](https://github.com/jazbengu/ThreatDetect) | *The Book arrives.* A threat detection pipeline. AI that protects instead of harms. | `Jupyter Notebook` |
+<span style="color:#BFE6D0">It started with too many questions.</span>
 
-<br/>
+Questions that did not fit neatly into lectures:
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=A50021&height=3)
+- How do machines understand meaning?
+- How do we design AI responsibly?
+- Why does culture shape computation?
+
+What began as curiosity became research.  
+What became research became systems.  
+What became systems became a runway.
+
+---
+
+<!-- ═══════════════════ RUNWAY COLLECTION ═══════════════════ -->
+
+## THE RUNWAY COLLECTION
+
+> *“Details of your implementation do not interest me.”*
+
+### 🖤 CORE STACK
+- Python — ML, NLP, systems
+- JavaScript / TypeScript — interfaces
+- React — frontend architecture
+- Node.js — backend systems
+
+---
+
+### 🌿 FRAMEWORKS & SYSTEMS
+- React / Next.js — UI systems
+- TensorFlow / PyTorch — machine learning
+- FastAPI — model serving
+- Docker / Git — deployment pipelines
+
+---
+
+### 🎀 DESIGN PRINCIPLES
+- Minimal UI, maximal clarity
+- Systems first, aesthetics second (but never ignored)
+- Interfaces as editorial spreads, not dashboards
+
+---
+
+<!-- ═══════════════════ FEATURED STORIES ═══════════════════ -->
+
+## FEATURED STORIES (PINNED WORK)
+
+> *“Find me that piece. I don’t care how you do it.”*
+
+### ✦ AniRecci  
+Anime recommendation system based on structured similarity and preference modeling.
+
+### ✦ ClassifySpeech  
+Speech classification system exploring acoustic feature extraction and ML generalization.
+
+### ✦ ThreatDetect  
+AI safety pipeline focused on detecting and classifying harmful inputs.
+
+---
 
 <!-- ═══════════════════ AREAS OF INFLUENCE ═══════════════════ -->
 
-<br/>
+## AREAS OF INFLUENCE
 
-<div align="center">
+| Domain | Focus |
+|--------|------|
+| 🗣 NLP | Language understanding systems |
+| 🎓 CS Education | Teaching structured thinking |
+| 🤖 AI for Good | Ethical system design |
+| 🎬 Fandom Tech | Cultural + language modeling |
 
-![section](https://img.shields.io/badge/✦%20%20AREAS%20OF%20INFLUENCE%20%20✦-5B92C3?style=for-the-badge&labelColor=0D0D0D)
+---
 
-*(Research Domains)*
+<!-- ═══════════════════ RESEARCH IDENTITY ═══════════════════ -->
 
-> *"Everybody wants to be us."*
+## RESEARCH POSITIONING
 
-<br/>
+<span style="color:#B9A3FF">Not building tools.</span>  
+<span style="color:#BFE6D0">Building interpretations of language.</span>
 
-| ![NLP](https://img.shields.io/badge/🗣️_NLP-A50021?style=for-the-badge) | ![CS Ed](https://img.shields.io/badge/🎓_CS_Education-C5A028?style=for-the-badge&logoColor=0D0D0D) | ![AI](https://img.shields.io/badge/🤖_AI_for_Good-5B92C3?style=for-the-badge) | ![Fandom](https://img.shields.io/badge/🎬_Fandom_Tech-3C873A?style=for-the-badge) |
-|:---:|:---:|:---:|:---:|
-| Teaching machines to understand human language | Making complex ideas click for first-generation coders | Building tech with ethics stitched into the lining | Because the internet's most passionate deserve the best tools |
+Focus areas:
+- Representation learning in language systems  
+- Human-centered AI design  
+- Educational accessibility  
+- Structured reasoning in ML systems  
 
-</div>
+---
 
-<br/>
+<!-- ═══════════════════ SEASON REVIEW ═══════════════════ -->
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=C5A028&height=2)
+## SEASON REVIEW
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
+<p align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=0D0D0D&title_color=B9A3FF&icon_color=BFE6D0&text_color=F5F0E8&border_color=8F7CFF" />
 
-<div align="center">
+<br/><br/>
 
-![section](https://img.shields.io/badge/✦%20%20THE%20SEASON%20REVIEW%20%20✦-A50021?style=for-the-badge&labelColor=0D0D0D)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0D0D0D&title_color=B9A3FF&text_color=F5F0E8&border_color=BFE6D0" />
 
-*(GitHub Stats)*
+</p>
 
-> *"I'm just one stomach flu away from my goal."*
-> — Every developer mid-commit streak.
-
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jazbengu&show_icons=true&bg_color=0D0D0D&title_color=CC0000&icon_color=C5A028&text_color=E8D5A3&border_color=A50021&count_private=true&rank_icon=github)](https://github.com/jazbengu)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jazbengu&layout=compact&bg_color=0D0D0D&title_color=CC0000&text_color=E8D5A3&border_color=A50021&langs_count=6)](https://github.com/jazbengu)
-
-[![Streak Stats](https://streak-stats.demolab.com/?user=jazbengu&theme=dark&background=0D0D0D&ring=CC0000&fire=C5A028&currStreakLabel=CC0000&sideLabels=E8D5A3&dates=888888&border=A50021)](https://github.com/jazbengu)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jazbengu&bg_color=0D0D0D&color=C5A028&line=CC0000&point=F5F0E8&area=true&hide_border=false&border_color=A50021)](https://github.com/jazbengu)
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=A50021&height=3)
-
-<!-- ═══════════════════ VILLAIN BOARD ═══════════════════ -->
-
-<br/>
-
-<div align="center">
-
-![section](https://img.shields.io/badge/✦%20%20THE%20VILLAIN%20BOARD%20%20✦-C5A028?style=for-the-badge&labelColor=0D0D0D)
-
-*(Bugs Defeated)*
-
-> *"By all means, move at a glacial pace. You know how that thrills me."*
-> — On waiting for tests to pass.
-
-</div>
-
-<br/>
-
-| 👠 The Villain | Threat Level | Status |
-|---|---|:---:|
-| 🩸 Null Pointer Exception | *Crashes the entire look mid-runway* | ![](https://img.shields.io/badge/Banished-A50021?style=flat-square) |
-| 💛 Merge Conflict Chaos | *Shows up every Friday deploy like an unwanted guest* | ![](https://img.shields.io/badge/Handled-C5A028?style=flat-square&logoColor=0D0D0D) |
-| 🔵 Infinite Loop Intern | *Zero exit condition, maximum damage* | ![](https://img.shields.io/badge/Let_Go-5B92C3?style=flat-square) |
-| 🟤 Undocumented Legacy Code | *Lurks in the basement like a past editor* | ![](https://img.shields.io/badge/Under_Investigation-8B4513?style=flat-square) |
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=C5A028&height=2)
-
-<!-- ═══════════════════ SPOTIFY ═══════════════════ -->
-
-<br/>
-
-<div align="center">
-
-![section](https://img.shields.io/badge/✦%20%20SOUNDTRACK%20FOR%20THE%20SEASON%20%20✦-3C873A?style=for-the-badge&labelColor=0D0D0D)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j8gmbmonn9n6mdj587a4b1xvg&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0D0D0D&interchange=false&profanity=false&hide_remaster=false&bar_color=CC0000&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
-*🎵 Currently on rotation at the Runway offices.*
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=A50021&height=3)
+---
 
 <!-- ═══════════════════ CONTACT ═══════════════════ -->
 
-<br/>
+## BOOK AN APPOINTMENT
+
+> *“She does not respond to noise. Only intent.”*
+
+- LinkedIn → professional inquiries  
+- Email → serious proposals only  
+- Portfolio → curated archive of work  
+
+---
+
+<!-- ═══════════════════ SOUNDTRACK ═══════════════════ -->
+
+## SOUNDTRACK FOR THE SEASON
+
+> *“Every collection needs a score.”*
 
 <div align="center">
 
-![section](https://img.shields.io/badge/✦%20%20BOOK%20AN%20APPOINTMENT%20%20✦-A50021?style=for-the-badge&labelColor=0D0D0D)
-
-*(Contact)*
-
-> *"Get me [this developer]. Now."*
-
-She is based in **South Africa 🇿🇦** and is currently deep in research.
-Reach her through the channels below — she responds to thoughtful messages, not cold pitches.
-**She knows the difference.**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/For_the_Professionals-A50021?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joy-bengu-/)
-[![Email](https://img.shields.io/badge/For_Serious_Enquiries-C5A028?style=for-the-badge&logo=gmail&logoColor=0D0D0D)](mailto:bengujoy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/For_Those_Who_Do_Their_Research-5B92C3?style=for-the-badge&logo=firefox&logoColor=white)](https://jazbengu.github.io/)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=j8gmbmonn9n6mdj587a4b1xvg&cover_image=true&theme=spotify-dark&show_offline=false&background_color=0D0D0D&bar_color=B9A3FF&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
+
+---
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
-<br/>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jazbengu&color=A50021&style=for-the-badge&label=RUNWAY+READERS)
+<br/>
+
+<span style="color:#8F7CFF">THE MAY EDITION ARCHIVE</span>  
+<span style="color:#BFE6D0">RUNWAY SYSTEM ACTIVE</span>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=B9A3FF&style=for-the-badge&label=RUNWAY+READERS)
 
 </div>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C5A028,60:A50021,100:0D0D0D&height=160&section=footer&text=That%27s%20all.&fontSize=38&fontColor=F5F0E8&fontAlignY=62&animation=fadeIn)](https://github.com/jazbengu)
